@@ -1,1 +1,1 @@
-# newsapi
+# blog-api
