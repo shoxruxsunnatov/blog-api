@@ -1,4 +1,4 @@
 # blog-api
-![image](https://github.com/shoxruxsunnatov/blog-api/assets/81769242/a226d184-7997-4010-bdf1-e37fd890efa1)
-![image](https://github.com/shoxruxsunnatov/blog-api/assets/81769242/5d9bb4dc-a5e1-4018-81ca-dbcdb80c86cd)
-![image](https://github.com/shoxruxsunnatov/blog-api/assets/81769242/debc1666-1a7d-4bb7-8594-fcea09162d26)
+![image](https://github.com/shoxruxsunnatov/blog-api/assets/81769242/8c84614d-7f0f-4d58-99fd-6134ad9bdff9)
+![image](https://github.com/shoxruxsunnatov/blog-api/assets/81769242/77e55ef7-aa6b-4653-8b48-b4446cadfc40)
+![image](https://github.com/shoxruxsunnatov/blog-api/assets/81769242/ac9f5688-4b69-4f9e-9500-3d57cdad3207)
